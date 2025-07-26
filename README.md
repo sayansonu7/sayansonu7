@@ -3,8 +3,8 @@
 I'm a passionate **Software Developer** who loves to turn ideas into impactful web experiences. With a strong foundation in both frontend and backend technologies, I enjoy building scalable solutions and learning new things every day.
 
 ## 🚀 Skills & Technologies
-- **Languages:** JavaScript, TypeScript, C++, Python, HTML, CSS
-- **Frameworks & Libraries:** React
+- **Languages:** JavaScript, TypeScript, C++, Python.
+- **Web Dev:** HTML, CSS, React, Git
 - **Databases:** MySQL
 
 ## 🌟 Featured Projects
