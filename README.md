@@ -41,14 +41,6 @@ I'm a passionate **Software Developer** who loves to turn ideas into impactful w
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/sayansonu7/sayansonu7/blob/output/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
 ## 💡 About Me
 
 Curious, creative, and driven by a love for technology, I thrive on challenges and collaboration. My approach to development blends technical expertise with a keen eye for design, ensuring user-friendly and visually appealing results.
